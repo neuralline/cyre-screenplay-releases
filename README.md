@@ -1,12 +1,22 @@
-# Cyre Screenplay
+# Cyre Screenplay IDE
 
 **Cyre Screenplay** is a screenplay editor built for writers and storytellers — a focused place to draft in **Fountain**, see your story take shape, and move from first idea to a script you can share.
 
 ## Download
 
-Install the desktop app from **[Releases](https://github.com/neuralline/cyre-screenplay-releases/releases)** (macOS, Windows, and Linux).
+Click your platform to download the **latest** desktop build:
 
-The app checks for updates automatically and installs them when you choose to restart.
+| Platform | Download |
+| -------- | -------- |
+| **macOS (Apple Silicon)** | [Download `.dmg`](https://github.com/neuralline/cyre-screenplay-releases/releases/latest/download/Cyre-Screenplay-mac-arm64.dmg) |
+| **macOS (Intel)** | [Download `.dmg`](https://github.com/neuralline/cyre-screenplay-releases/releases/latest/download/Cyre-Screenplay-mac-x64.dmg) |
+| **Windows** | [Download installer](https://github.com/neuralline/cyre-screenplay-releases/releases/latest/download/Cyre-Screenplay-Setup.exe) |
+| **Linux (AppImage)** | [Download AppImage](https://github.com/neuralline/cyre-screenplay-releases/releases/latest/download/Cyre-Screenplay-linux-x64.AppImage) |
+| **Linux (Debian/Ubuntu)** | [Download `.deb`](https://github.com/neuralline/cyre-screenplay-releases/releases/latest/download/Cyre-Screenplay-linux-x64.deb) |
+
+Older builds and release notes: **[All releases](https://github.com/neuralline/cyre-screenplay-releases/releases)**.
+
+The installed app checks for updates automatically and applies them when you restart.
 
 ## What you can do
 
